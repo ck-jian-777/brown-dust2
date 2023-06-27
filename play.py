@@ -109,6 +109,11 @@ def get_color():
 
 
 if __name__ == '__main__':
+    # 抓顏色和位置用
+    # get_color()
+    # sys.exit()
+
+
     i = 0
     mouse_now = None
     while i < 500:
